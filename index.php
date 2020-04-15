@@ -1,6 +1,6 @@
 <?php 
 
 
- echo "Meu primeiro codigo php";
+ echo "Hello world";
 
  ?>
